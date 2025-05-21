@@ -3,7 +3,7 @@
 // import 'package:flutter_application_1/models/weather_model.dart';
 
 // class WeatherService {
-//   final String _apiKey = 'cb2b8d91b575d6d952157fdfb57894bb';
+//   final String _apiKey = 'YOUR_API_KEY';
 
 //   Future<Weather> fetchWeather(String cityName) async {
 //     final url =
